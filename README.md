@@ -5,8 +5,8 @@
 - Python (Pandas, Matplotlib)
 - Power BI
 -  ## Key Findings
-- 18% of delays are clustered in the Birmingham–London corridor
-- Freight conflicts cause average delays of 4–7 mins on key routes
 
+## Project link (Power BI)
+https://drive.google.com/file/d/1hFyBiILeYmQKRkobMTyFmOYELN_5eLKc/view?usp=sharing
 ## Folder Structure
-- `data/`: Source data and cleaned data files
+
