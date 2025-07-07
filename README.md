@@ -4,9 +4,10 @@
 - MySQL
 - Python (Pandas, Matplotlib)
 - Power BI
--  ## Key Findings
 
-## Project link 
-(Power BI): https://drive.google.com/file/d/1hFyBiILeYmQKRkobMTyFmOYELN_5eLKc/view?usp=sharing
+# See uploaded Word document for project summary and details
+
+# Power BI dashboard link 
+https://drive.google.com/file/d/1hFyBiILeYmQKRkobMTyFmOYELN_5eLKc/view?usp=sharing
 
 
